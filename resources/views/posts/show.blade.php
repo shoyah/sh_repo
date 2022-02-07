@@ -13,6 +13,6 @@
             <p class='body'>{{ $post->body }}</p>
             <p class='updated_at'>{{ $post->updated_at }}</p>
         </div>
-        <div class='back'>[<a herf='/'>back</a>]</div>
+        <div class='back'>[<a href='/'>back</a>]</div>
     </body>
 </html>
